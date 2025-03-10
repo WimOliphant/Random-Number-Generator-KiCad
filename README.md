@@ -11,6 +11,7 @@ The KiCad project is availabe should you want to do something with it.
 The gerbers zip is located in the "production" folder.
 
 3D preview from KiCad.
+
 ![rng_3d_preview](https://github.com/user-attachments/assets/1e5c6c01-1079-49c8-97d5-4e7ca64f49e0)
 
-The hand-draw silkscreen was done in GIMP.
+The hand-draw silkscreen layer was done in GIMP.
